@@ -1,0 +1,44 @@
+# Amazon Product Reviews Dataset
+# Format: CATEGORY || TEXT
+# Categories: Electronics, Books, Movies, Clothing
+
+Electronics || This smartphone has amazing battery life and a gorgeous OLED display. The processor is incredibly fast and the camera takes stunning photos in low light.
+Electronics || The laptop is very powerful with excellent processor speed and plenty of RAM. Great for gaming and video editing, though the fan can be loud.
+Electronics || Poor quality headphones broke after just one week of normal use. The sound quality is mediocre and the build feels very cheap.
+Electronics || The camera captures beautiful photos with incredible detail and color accuracy. The zoom lens is fantastic and the image stabilization works well.
+Electronics || Very disappointed with this tablet. The screen is unresponsive, battery drains quickly, and apps crash frequently. Not worth the money.
+Electronics || This smartwatch tracks fitness accurately and has a bright, easy-to-read display. Battery lasts 5 days on a single charge.
+Electronics || The wireless earbuds have excellent sound quality with deep bass and clear highs. Noise cancellation is impressive for the price.
+Electronics || The TV has stunning 4K picture quality with vibrant colors and deep blacks. Smart features are responsive and easy to use.
+Electronics || This printer is fast and prints high-quality documents. Wireless setup was straightforward and ink lasts longer than expected.
+Electronics || The gaming mouse is comfortable and responsive with customizable buttons. RGB lighting adds a nice touch.
+Books || This novel has an incredible storyline with deep, complex characters. The plot twists kept me guessing until the very end. Highly recommended.
+Books || The book is beautifully written with poetic prose that flows effortlessly. A true masterpiece of modern literature that deserves all the awards.
+Books || I found this book terribly boring and could not finish the first chapter. The writing is dry and the characters are completely uninteresting.
+Books || The author creates a fascinating fantasy world with rich details and compelling mythology. World-building is exceptional and immersive.
+Books || This thriller kept me on the edge of my seat from start to finish. The pacing is perfect and the ending is satisfying.
+Books || The historical fiction novel is meticulously researched and brings the era to life. Characters feel authentic and relatable.
+Books || The self-help book offers practical advice that actually works. The exercises are helpful and the writing is encouraging.
+Books || The biography provides fascinating insights into the subject's life and work. Well-researched and engagingly written.
+Books || The science book explains complex concepts in an accessible way. The author has a gift for making difficult topics understandable.
+Books || The cookbook has delicious recipes with clear instructions. Every dish I've tried has turned out perfectly.
+Movies || The film has breathtaking cinematography and a powerful score. The acting is superb across the board, especially the lead performance.
+Movies || This movie features groundbreaking visual effects that push the boundaries of what's possible. A technical masterpiece.
+Movies || Absolutely terrible film that wastes talented actors on a nonsensical script. The pacing is awful and the ending makes no sense.
+Movies || The director's vision is brilliant and every frame feels intentional. A thought-provoking masterpiece that rewards multiple viewings.
+Movies || The action sequences are thrilling and well-choreographed. The stunts are impressive and keep you on the edge of your seat.
+Movies || The comedy had me laughing out loud throughout. The jokes land consistently and the cast has great chemistry.
+Movies || The drama is emotionally devastating but ultimately hopeful. The character development is deep and authentic.
+Movies || The documentary is eye-opening and thoroughly researched. It presents complex issues in an accessible way.
+Movies || The horror movie builds tension masterfully. The scares are earned rather than relying on cheap jump scares.
+Movies || The sci-fi film explores fascinating concepts about consciousness and reality. Brain-bending in the best way.
+Clothing || These shoes are very comfortable and stylish. Great for everyday wear and they match with almost any outfit.
+Clothing || The shirt fits perfectly with great quality fabric that feels soft against the skin. The colors are vibrant even after washing.
+Clothing || Poor stitching caused the jacket to fall apart after just a few wears. The zipper broke and the buttons came loose.
+Clothing || Beautiful dress that got many compliments at the event. The fabric drapes nicely and the fit is very flattering.
+Clothing || The jeans are too tight and uncomfortable despite ordering my usual size. The material has no stretch at all.
+Clothing || This sweater is soft, warm, and looks great with everything. It has become my go-to piece for cold days.
+Clothing || The coat is well made and keeps me warm in winter weather. The lining is soft and the pockets are deep.
+Clothing || These socks are durable and comfortable for running and sports. They wick moisture well and don't slip down.
+Clothing || The hat fits well and protects from the sun during outdoor activities. The brim is wide enough for good coverage.
+Clothing || This scarf is made of high quality wool and feels nice against the skin. It's warm without being too bulky.

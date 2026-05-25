@@ -1,0 +1,44 @@
+# News Articles Dataset
+# Format: CATEGORY || TEXT
+# Categories: Politics, Business, Sports, Technology
+
+Politics || The president announced new economic policies aimed at reducing inflation and creating jobs. The plan includes tax incentives for small businesses and infrastructure spending.
+Politics || Congress passed a bipartisan infrastructure bill that will invest billions in roads, bridges, and public transit. The legislation received support from both parties.
+Politics || The Supreme Court issued a landmark ruling on voting rights that could have far-reaching implications for future elections. Legal experts are analyzing the decision.
+Politics || International negotiations resulted in a climate agreement with ambitious emissions reduction targets. World leaders praised the collaborative effort.
+Politics || The governor signed an executive order expanding access to healthcare. The policy aims to reduce costs and improve outcomes for residents.
+Politics || The election results were contested amid allegations of irregularities. Observers are calling for a transparent investigation into the claims.
+Politics || The trade deal between major economies will reduce tariffs and increase market access. Businesses on both sides welcomed the agreement.
+Politics || The diplomatic summit eased tensions between rival nations. Both sides agreed to resume talks on key issues.
+Politics || The mayor unveiled a comprehensive plan to address homelessness. The strategy includes housing-first approaches and mental health services.
+Politics || The security council imposed sanctions in response to aggressive actions. Member states will enforce the restrictions immediately.
+Business || Tech stocks rallied after the company reported better-than-expected earnings. The CEO credited strong product sales and cost control measures.
+Business || The Federal Reserve raised interest rates to combat inflation. Markets reacted negatively to the announcement but analysts say the move was expected.
+Business || The merger between two industry giants received regulatory approval. The combined company will control significant market share in several sectors.
+Business || Startup secured venture capital funding at a unicorn valuation. Investors are betting on the company's innovative technology and growth potential.
+Business || The retail chain announced store closures as part of a restructuring plan. The company is shifting focus to e-commerce and digital channels.
+Business || Oil prices surged following supply disruptions in key producing regions. Energy stocks benefited while transportation companies faced higher costs.
+Business || The cryptocurrency market experienced extreme volatility. Bitcoin plunged then recovered amid conflicting news about regulation.
+Business || The manufacturing sector expanded for the sixth consecutive month. New orders and employment both increased according to the latest survey.
+Business || The company unveiled a revolutionary product that could disrupt the industry. Early reviews praise the design and functionality.
+Business || The CEO resigned amid an investigation into accounting practices. The board has appointed an interim leader while searching for a permanent replacement.
+Sports || The quarterback threw for three touchdowns in the championship victory. The team's defense also played exceptionally well in the decisive game.
+Sports || The rookie sensation broke the league scoring record in spectacular fashion. Fans gave a standing ovation as the achievement was announced.
+Sports || The coach was fired after a disappointing season that fell short of expectations. The search for a replacement will begin immediately.
+Sports || The star player suffered a season-ending injury during the first quarter. The team's playoff hopes now seem uncertain without their leader.
+Sports || The underdog team pulled off a stunning upset against the heavily favored champions. The victory ranks among the biggest in franchise history.
+Sports || The doping scandal has rocked the sport with multiple athletes facing suspension. The governing body has launched a comprehensive investigation.
+Sports || The marathon record was broken by an incredible margin. The winner's time surpassed expectations and shocked the athletics world.
+Sports || The rivalry game lived up to the hype with dramatic overtime finish. The winning basket came with just seconds remaining on the clock.
+Sports || The tennis star won her fifth consecutive grand slam title. Her dominance has drawn comparisons to the greatest players in history.
+Sports || The soccer transfer shattered the previous record fee. The player joins his new club amid massive expectations and fan excitement.
+Technology || The new software update introduces useful features and improves overall performance significantly. My computer feels faster than before.
+Technology || This app crashes constantly and drains my battery. The UI is confusing and customer support is completely unresponsive.
+Technology || The cloud storage service is reliable with fast sync speeds. The mobile app works seamlessly with the desktop version.
+Technology || The programming language has clean syntax and helpful error messages. The community is supportive and documentation is thorough.
+Technology || The database system handles large datasets efficiently. Query optimization is impressive even for complex operations.
+Technology || The API is well-designed with comprehensive documentation. Integration was straightforward and the rate limits are generous.
+Technology || The framework accelerates development significantly. The learning resources are excellent and the community is active.
+Technology || The development tool saves hours of debugging time. The features are thoughtful and clearly designed by developers for developers.
+Technology || The cybersecurity software detected threats that others missed. The interface is clean and system impact is minimal.
+Technology || The AI platform makes machine learning accessible to beginners. Pre-trained models save enormous amounts of time.

@@ -1,0 +1,44 @@
+# Customer Reviews Dataset
+# Format: CATEGORY || TEXT
+# Categories: Restaurants, Hotels, Airlines, Products
+
+Restaurants || The food was absolutely delicious and the service was impeccable throughout our meal. Our waiter anticipated every need and the atmosphere was perfect.
+Restaurants || The restaurant has an innovative menu with creative flavor combinations that work perfectly together. Every dish we tried was beautifully presented.
+Restaurants || Terrible experience from start to finish. The staff was rude, the food took forever to arrive, and everything was cold when it finally came.
+Restaurants || The sushi is incredibly fresh and reasonably priced for the quality. The fish melts in your mouth and the rice is perfectly seasoned.
+Restaurants || The pizza place exceeded expectations with their wood-fired pies. The crust is crispy, the sauce is flavorful, and the toppings are generous.
+Restaurants || The brunch spot has become our weekend tradition. The eggs benedict is perfect every time and the mimosas are bottomless at a fair price.
+Restaurants || The vegan restaurant offers creative plant-based dishes that even meat-eaters will enjoy. The cashew cheese is particularly impressive.
+Restaurants || The barbecue joint serves fall-off-the-bone ribs with tangy homemade sauce. The cornbread is moist and the collard greens are authentic.
+Restaurants || The bakery makes the best croissants I've had outside of Paris. The layers are flaky and buttery, achieving perfect pastry texture.
+Restaurants || The food truck serves amazing tacos with fresh toppings and flavorful salsa. The al pastor is especially good and the portions are generous.
+Hotels || The hotel exceeded expectations with luxurious accommodations and attentive staff members. The room was spacious and the bed was incredibly comfortable.
+Hotels || The boutique hotel has unique character and personalized service that makes you feel special. The location is perfect for exploring the city.
+Hotels || The room was dirty and outdated with stained carpets and broken fixtures. The staff was unhelpful and the noise from the street made sleep impossible.
+Hotels || The resort offers beautiful grounds and excellent amenities for all ages. The pool area is relaxing and the spa treatments were absolutely wonderful.
+Hotels || The business hotel has fast wifi and a convenient workspace in every room. The meeting facilities are well-equipped for corporate events.
+Hotels || The budget hotel provides good value for the price. The room was clean and the location was convenient though the decor is dated.
+Hotels || The all-inclusive resort takes care of everything you could need. Food and drinks are included and the activities keep everyone entertained.
+Hotels || The historic hotel has charming architecture and old-world elegance throughout. The renovation preserved original features while adding modern comforts.
+Hotels || The airport hotel is perfectly located for early flights with reliable shuttle service. The rooms are soundproofed and comfortable for a short stay.
+Hotels || The family-friendly resort has excellent kids' programs that kept children entertained for hours. The water slides were a big hit with our children.
+Airlines || The flight was smooth with attentive service and comfortable seats even in economy class. The entertainment system had many options and the food was good.
+Airlines || The airline exceeded expectations with on-time departure and early arrival at our destination. The crew was friendly and handled turbulence well.
+Airlines || The flight was delayed for hours without explanation and customer service was completely unhelpful. Compensation was inadequate for the inconvenience.
+Airlines || The budget airline offers low fares but charges for absolutely everything. The seats are cramped but you get what you pay for at this price point.
+Airlines || The business class experience was luxurious with lie-flat seats and gourmet meals. The champagne and comfortable bedding made the long flight enjoyable.
+Airlines || The airline lost my luggage and was difficult to reach afterward for compensation. Tracking the bag took days and the reimbursement process was slow.
+Airlines || The check-in process was efficient with helpful staff members guiding us. Security lines moved quickly and boarding was organized by zones.
+Airlines || The legroom in economy was surprisingly generous for my height. For a tall person, this made a huge difference in comfort during the long flight.
+Airlines || The pilot provided excellent communication about weather and expected turbulence. The updates reduced anxiety during the rough patches of the flight.
+Airlines || The cabin crew went above and beyond for a passenger with anxiety. Their compassion and professionalism were truly commendable and reassuring.
+Products || This kitchen appliance works perfectly and looks great on the counter. The instructions were clear and assembly took only minutes to complete.
+Products || The smart home device integrates seamlessly with our existing setup. Voice recognition is accurate and responses to commands are impressively fast.
+Products || The product broke after minimal use despite following the instructions carefully. Customer service was unhelpful and warranty coverage was denied.
+Products || The clothing fits perfectly and the fabric feels high-quality against the skin. The stitching is durable and the colors don't fade after multiple washes.
+Products || The tool set includes everything needed for basic home repairs. The case keeps items organized and the quality is good for the reasonable price.
+Products || The skincare product cleared my skin within just two weeks. The natural ingredients don't cause irritation and the visible results are impressive.
+Products || The furniture was difficult to assemble with unclear instructions and missing pieces. Some holes didn't align and customer service was slow to respond.
+Products || The battery life exceeds the advertised claims by a significant margin. The device easily lasts through a full day of heavy use without recharging.
+Products || The design is beautiful but the functionality is lacking in several important ways. Form seems prioritized over function in this product.
+Products || The price is higher than competitors but the superior quality justifies it. The materials are premium and it should last for many years of use.

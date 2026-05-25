@@ -1,0 +1,68 @@
+Electronics:
+
+text
+The battery on this laptop lasts for 12 hours and the screen is incredibly sharp. Perfect for working remotely.
+Books:
+
+text
+The character development in this novel is outstanding. I couldn't put it down until I finished all 500 pages.
+Movies:
+
+text
+The special effects were revolutionary and the plot kept me guessing until the final scene. Best film of the year.
+Clothing:
+
+text
+The fabric of this jacket is water resistant and the fit is perfect for my body type. Very warm for winter.
+Pentru News Articles Dataset (Categorii: Politics, Business, Sports, Technology)
+
+Politics:
+
+text
+The senator proposed a new bill to reduce carbon emissions by 50 percent over the next decade. Environmental groups praised the initiative.
+Business:
+
+text
+The company's stock price increased by 15 percent after announcing record quarterly profits. Investors are optimistic about future growth.
+Sports:
+
+text
+The basketball team won the championship after a thrilling overtime victory. The star player scored 40 points in the decisive game.
+Technology:
+
+text
+The new artificial intelligence model can generate realistic images from text descriptions. This breakthrough could revolutionize creative work.
+Pentru Customer Reviews Dataset (Categorii: Restaurants, Hotels, Airlines, Products)
+
+Restaurants:
+
+text
+The pasta was cooked to perfection and the sauce was delicious. Our server was very attentive and the atmosphere was cozy.
+Hotels:
+
+text
+The room was spotless with a comfortable king sized bed. The complimentary breakfast had many options and the staff was friendly.
+Airlines:
+
+text
+The flight departed on time and the crew was professional. The seats had enough legroom even for a tall person like me.
+Products:
+
+text
+This blender is powerful enough to crush ice easily. The cleaning process is simple and the build quality seems durable.
+Texte pentru testare avansată (texte ambigue sau complexe)
+
+Text care ar putea fi clasificat în mai multe categorii:
+
+text
+I bought this smartphone case from the online store and it arrived in perfect condition. The silicone material feels premium and protects my phone well.
+(Acesta ar putea fi Electronics sau Products)
+
+Text cu recenzie negativă clară:
+
+text
+Complete waste of money. The product stopped working after three days and customer service refused to give me a refund. Very disappointing experience.
+Text cu recenzie pozitivă clară:
+
+text
+Exceeded all my expectations. The quality is outstanding and the price was very reasonable. Would definitely recommend to everyone.
